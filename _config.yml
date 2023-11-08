@@ -103,3 +103,5 @@ theme: hexo-theme-Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  repository: https://gouxianguo.github.io/website/
+  branch: main
